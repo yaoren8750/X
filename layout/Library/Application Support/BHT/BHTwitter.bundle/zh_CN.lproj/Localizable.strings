@@ -490,3 +490,7 @@
 /*Misc*/
 "LOCATION_UNAVAILABLE" = "位置不可用";
 "CONTRIBUTOR_PAGE_SECTION_HEADER_TITLE" = "贡献者";
+"HIDE_VIDEOS_FOR_YOU_TITLE" = "隐藏“为你推荐的视频”";
+"HIDE_VIDEOS_FOR_YOU_DETAIL" = "隐藏时间线中的“为你推荐的视频”模块。";
+"HIDE_QUICK_COMPOSE_TITLE" = "隐藏快捷撰写按钮";
+"HIDE_QUICK_COMPOSE_DETAIL" = "从导航栏中移除快捷撰写按钮（仅限 Liquid Glass 样式）。";
